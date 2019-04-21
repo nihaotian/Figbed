@@ -1,0 +1,2 @@
+# Figbed
+markdown图床
